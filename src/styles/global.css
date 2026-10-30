@@ -144,5 +144,8 @@ h3{font-size:var(--fs-24);line-height:1.15}
 
 .faq summary{min-height:48px;align-items:center;padding:6px 0}
 .hdr__nav a{min-height:44px;display:inline-flex;align-items:center}
-.ftr a{min-height:40px;display:inline-flex;align-items:center}
+.ftr a{min-height:48px;display:inline-flex;align-items:center}
 .dir__m{min-height:24px}
+
+.hdr__tel{min-height:44px;display:inline-flex;align-items:center}
+.tel{min-height:48px;align-items:center;display:inline-flex}
